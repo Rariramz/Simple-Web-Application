@@ -8,9 +8,9 @@ ASP .NET Core MVC &amp; Razor Pages
   
 ![home](https://github.com/rariramz/simple-web-application/raw/main/screens/home.png)
 ![catalog](https://github.com/rariramz/simple-web-application/raw/main/screens/catalog.png)
-![Login](https://github.com/rariramz/simple-web-application/raw/main/screens/Login.png)
+![login](https://github.com/rariramz/simple-web-application/raw/main/screens/login.png)
 ![register](https://github.com/rariramz/simple-web-application/raw/main/screens/register.png)
-![after authorization](https://github.com/rariramz/simple-web-application/raw/main/screens/after authorization.png)
+![authorized](https://github.com/rariramz/simple-web-application/raw/main/screens/authorized.png)
 ![profile](https://github.com/rariramz/simple-web-application/raw/main/screens/profile.png)
 ![cart](https://github.com/rariramz/simple-web-application/raw/main/screens/cart.png)
 ![admin](https://github.com/rariramz/simple-web-application/raw/main/screens/admin.png)
