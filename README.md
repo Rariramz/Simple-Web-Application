@@ -11,6 +11,6 @@ ASP .NET Core MVC &amp; Razor Pages
 ![Login](https://github.com/rariramz/simple-web-application/raw/main/screens/Login.png)
 ![register](https://github.com/rariramz/simple-web-application/raw/main/screens/register.png)
 ![after authorization](https://github.com/rariramz/simple-web-application/raw/main/screens/after authorization.png)
-![profile](https://github.com/rariramz/simple-web-application/raw/main/screens/home.png)
-![cart](https://github.com/rariramz/simple-web-application/raw/main/screens/profile.png)
+![profile](https://github.com/rariramz/simple-web-application/raw/main/screens/profile.png)
+![cart](https://github.com/rariramz/simple-web-application/raw/main/screens/cart.png)
 ![admin](https://github.com/rariramz/simple-web-application/raw/main/screens/admin.png)
