@@ -1,0 +1,32 @@
+﻿@model LoginResult
+
+<form method="post" asp-controller="Account" asp-action"Login">
+    <div class="container" style="height:100%">
+    <hr class="mt-3">
+    <p class="display-4">Вход</p>
+    <hr class="mt-3">
+    <div class="row mb-3 mt-4">
+        <div class="col-4">
+            <label class="form-label" for="Email">Email</label>
+            <input class="form-control @(Model.EmailError != "" ? "is-invalid" : "")" name="Email" id="Email" type="email" placeholder="Email" value="@Model.Email")"/>
+            <div class="invalid-feedback">
+                @Model.EmailError
+            </div>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <div class="col-4">
+            <label class="form-label" for="Password">Пароль</label>
+            <input class="form-control @(Model.PasswordError != "" ? "is-invalid" : "")" name="Password" id="Password" type="password" placeholder="Пароль" />
+            <div class="invalid-feedback">
+                @Model.PasswordError
+            </div>
+        </div>
+    </div>
+    <div class="form-group row mt-4 mb-5">
+        <div class="col-sm-10">
+            <button type="submit" class="btn btn-primary" style="font-size: 24px; width: 150px">Войти</button>
+        </div>
+    </div>
+    </div>
+</form>

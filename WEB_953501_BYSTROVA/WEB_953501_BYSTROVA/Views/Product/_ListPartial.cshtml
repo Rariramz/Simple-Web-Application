@@ -1,0 +1,8 @@
+﻿@using WEB_953501_BYSTROVA.Entities
+
+@model WEB_953501_BYSTROVA.Models.ListModelView<Food>
+
+@foreach(Food item in Model)
+{
+    <partial name="_ProductPartial" model="@item" />
+}
